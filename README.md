@@ -15,6 +15,7 @@
 | [ЛР 2](./labs/lab-02-linux-terminal/README.md) | Терминал и командная оболочка Linux | `README.md` | 20 скриншотов |
 | [ЛР 3](./labs/lab-03-bash-stepik/README.md) | Bash-скрипты и курс Stepik | `README.md` | 7 скриншотов, 5 скриптов |
 | [ЛР 4](./labs/lab-04-linux-server-admin/README.md) | Работа на серверах Linux | `README.md` | 29 скриншотов, примеры `systemd` и `sudoers` |
+| [ПР 6](./labs/lab-06-docker/README.md) | Docker и основы контейнеризации | `README.md` | 8 скриншотов |
 
 ## Что уже оформлено
 
@@ -35,7 +36,8 @@
 │   ├── lab-01-linux-basics/
 │   ├── lab-02-linux-terminal/
 │   ├── lab-03-bash-stepik/
-│   └── lab-04-linux-server-admin/
+│   ├── lab-04-linux-server-admin/
+│   └── lab-06-docker/
 └── source-materials/
     ├── docx/
     └── legacy-images/
