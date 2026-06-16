@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/niel-night-console.svg" alt="Ushakov" />
-</p>
 
 # Лабораторные работы по DevOps и Linux
 
