@@ -39,17 +39,3 @@
     ├── docx/
     └── legacy-images/
 ```
-
-## Публикация репозитория
-
-После проверки материалов репозиторий можно отправить в удалённый хостинг стандартной последовательностью команд:
-
-```bash
-git add .
-git commit -m "Prepare markdown reports for DevOps labs"
-git branch -M main
-git remote add origin <repo-url>
-git push -u origin main
-```
-
-Если удалённый репозиторий уже создан и привязан, достаточно выполнить `git add`, `git commit` и `git push`.
