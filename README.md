@@ -14,28 +14,3 @@
 | [ЛР 4](./labs/lab-04-linux-server-admin/README.md) | Работа на серверах Linux | `README.md` | 29 скриншотов, примеры `systemd` и `sudoers` |
 | [ПР 6](./labs/lab-06-docker/README.md) | Docker и основы контейнеризации | `README.md` | 8 скриншотов |
 
-## Что уже оформлено
-
-- Единый шаблон отчётов: цель, теоретические сведения, ход выполнения, результаты, вывод.
-- Скриншоты извлечены из исходных `.docx` и привязаны к соответствующим лабораторным.
-- Для практических заданий добавлены сопровождающие материалы: bash-скрипты, unit-файлы `systemd`, пример правила `sudoers`.
-- Исходные Word-файлы и старые изображения сохранены отдельно в каталоге [`source-materials`](./source-materials/).
-
-## Структура
-
-```text
-.
-├── README.md
-├── assets/
-│   └── devops-labs-banner.svg
-├── labs/
-│   ├── lab-00-ubuntu-virtualbox/
-│   ├── lab-01-linux-basics/
-│   ├── lab-02-linux-terminal/
-│   ├── lab-03-bash-stepik/
-│   ├── lab-04-linux-server-admin/
-│   └── lab-06-docker/
-└── source-materials/
-    ├── docx/
-    └── legacy-images/
-```
